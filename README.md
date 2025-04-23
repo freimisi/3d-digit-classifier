@@ -7,6 +7,7 @@ Classifying handwritten digits from **3D motion gesture data**, projected into 2
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20With-Python-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Environment-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Framework-TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Model-CNN-green?style=for-the-badge">
   <!-- <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"> -->
@@ -77,9 +78,10 @@ Using only **X and Y** dimensions, we:
 ---
 
 ## 📁 Project Structure
-📦 3d-digit-classifier/  
+📦 3d-digit-classifier/     
 ├── digit_classifier.ipynb       
 ├── digit_classifier.py         
 ├── inference_test.py            
-├── requirements.txt           
+├── requirements.txt     
+├── img/  
 └── digits_3d/                 
