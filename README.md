@@ -9,7 +9,7 @@ Classifying handwritten digits from **3D motion gesture data**, projected into 2
   <img src="https://img.shields.io/badge/Made%20With-Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Framework-TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Model-CNN-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
+  <!-- <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"> -->
 </p>
 
 ---
