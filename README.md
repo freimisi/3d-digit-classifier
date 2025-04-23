@@ -3,12 +3,12 @@
 Classifying handwritten digits from **3D motion gesture data**, projected into 2D grids and processed with a **Convolutional Neural Network**.
 
 > 🔍 Built as part of the "Pattern Recognition and Machine Learning" course @ LUT University  
-> 👨‍💻 Contributors: Omer Ahmed, Chamath Wijerathne, Mihály Frei
+> 👨‍💻 Contributors: Omer AHMED, Chamath WIJERATHNE, Mihály FREI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Python-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Environment-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Framework-TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Made%20With-Python-blue?style=for-the-badge&logo=python&logoColor=green">
+  <img src="https://img.shields.io/badge/Environment-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=orange">
+  <img src="https://img.shields.io/badge/Framework-TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=lightorange">
   <img src="https://img.shields.io/badge/Model-CNN-green?style=for-the-badge">
   <!-- <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"> -->
 </p>
